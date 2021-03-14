@@ -9,7 +9,7 @@ Node.js:
 ```
 
 npm i ColorLogs
-const log = require('./colorslogs.js')
+const log = require('@skitt/colorlogs')
 
 log.green("Hola!")
 log.cyan("Hola!")
