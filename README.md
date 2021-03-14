@@ -28,7 +28,7 @@ log.hidden("Hola!")
 ```
 
 
-
+_you can see the results here: https://prnt.sc/10ljmr8_
 
 
 
