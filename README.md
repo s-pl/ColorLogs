@@ -4,10 +4,10 @@ _ColorLogs.js is a javascript module, in this module you can interact with the (
 
 ## How to use ColorLogs.js? 🚀
 
-_It´s very easy to use: _
-
-```
+It´s very easy to use: 
 Node.js:
+```
+
 npm i ColorLogs
 const log = require('./colorslogs.js')
 
@@ -45,4 +45,4 @@ log.hidden("Hola!")
 
 
 ---
-⌨️ con ❤️ por [Skitt](https://github.com/Sz15-pl) 😊
+⌨️ with ❤️ by [Skitt](https://github.com/Sz15-pl) 😊
