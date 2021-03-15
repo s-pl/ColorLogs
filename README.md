@@ -3,7 +3,7 @@
 _ColorLogs.js is a javascript module, in this module you can interact with the (console.log function) to change te logs colors._
 
 ## How to use ColorLogs.js? 🚀
-
+[![Run on Repl.it](https://replit.com/@sapolu08/ColorLogsjs#index.js)](https://replit.com/@sapolu08/ColorLogsjs#index.js)
 It´s very easy to use: 
 Node.js:
 ```
